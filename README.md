@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hello, I am a Tank!
+
+A little bit about me:
+- I am currently an Application Security Engineer at a US-based medical software company.
+- I enjoy Development, Gaming, Fishing, Whiskey, and Coffee.
+- Husband and Father of 2!
+
+---
+Current Projects:
+- Spotify Media Manager for Neovim - https://github.com/iamt4nk/smm.nvim
 
 <!--
 **iamt4nk/iamt4nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
