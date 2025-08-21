@@ -12,7 +12,6 @@
 species: M1A1 HA Abrams Tank
 role: Application Security Engineer
 company: US-based Medical Software Company
-location: Securing healthcare technology
 passions:
   - 💻 Development
   - 🎮 Gaming  
