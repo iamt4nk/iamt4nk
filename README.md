@@ -48,20 +48,11 @@ personal:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamt4nk&layout=compact&langs_count=8&theme=shadow_green"/>
 </div>
 
-## ☕ Fun Fact
-
-*The best code is written with good coffee and even better music!*
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamt4nk&color=5EFF6C&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
   
 **"Security is not a product, but a process"** 🔒
-
-*Let's connect and build something amazing together!*
 
 </div>
