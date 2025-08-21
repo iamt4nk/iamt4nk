@@ -1,4 +1,4 @@
-# 👋 Hello, I am Tank!
+# 👋 Hello, I am a tank!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=w000&color=5EFF6C&center=true&vCenter=true&width=435&lines=Application+Security+Engineer;Neovim+Enthusiast;Code+%2B+Whiskey+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
