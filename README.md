@@ -1,25 +1,67 @@
-### Hello, I am a Tank!
+# 👋 Hello, I am Tank!
 
-A little bit about me:
-- I am currently an Application Security Engineer at a US-based medical software company.
-- I enjoy Development, Gaming, Fishing, Whiskey, and Coffee.
-- Husband and Father of 2!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=w000&color=5EFF6C&center=true&vCenter=true&width=435&lines=Application+Security+Engineer;Neovim+Enthusiast;Code+%2B+Whiskey+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 ---
-Current Projects:
-- Spotify Media Manager for Neovim - https://github.com/iamt4nk/smm.nvim
 
-<!--
-**iamt4nk/iamt4nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+```yaml
+species: M1A1 HA Abrams Tank
+role: Application Security Engineer
+company: US-based Medical Software Company
+location: Securing healthcare technology
+passions:
+  - 💻 Development
+  - 🎮 Gaming  
+  - 🎣 Fishing
+  - 🥃 Whiskey
+  - ☕ Coffee
+personal:
+  - 👨‍💼 Husband
+  - 👨‍👧‍👦 Father of 2
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
+![Development](https://img.shields.io/badge/Development-4ECDC4?style=for-the-badge&logo=code&logoColor=white)
+
+</div>
+
+## 🎯 Current Projects
+
+- **[Spotify Media Manager for Neovim](https://github.com/iamt4nk/smm.nvim)**  
+*Control your Spotify playback without leaving your favorite editor*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamt4nk&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamt4nk&layout=compact&langs_count=8&theme=shadow_green"/>
+</div>
+
+## ☕ Fun Fact
+
+*The best code is written with good coffee and even better music!*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamt4nk&color=5EFF6C&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+**"Security is not a product, but a process"** 🔒
+
+*Let's connect and build something amazing together!*
+
+</div>
