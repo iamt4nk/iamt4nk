@@ -39,6 +39,9 @@ personal:
 - **[Spotify Media Manager for Neovim](https://github.com/iamt4nk/smm.nvim)**  
 *Control your Spotify playback without leaving your favorite editor*
 
+- **[Athena](https://github.com/iamt4nk/athena)**  
+*A universal log parser to extract and summarize important information from large log files*
+
 ---
 
 ## 📊 GitHub Stats
