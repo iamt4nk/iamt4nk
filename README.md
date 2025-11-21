@@ -18,9 +18,11 @@ passions:
   - 🎣 Fishing
   - 🥃 Whiskey
   - ☕ Coffee
+  - 🏗️ 3D Printing
 personal:
   - 👨‍💼 Husband
   - 👨‍👧‍👦 Father of 2
+  - 🐶 Dog dad
 ```
 
 ## 🛠️ Tech Stack & Tools
