@@ -45,9 +45,7 @@ personal:
 
 ---
 
-<div style="border:0px;border-radius:5px;box-shadow:3px 5px 5px darkgreen;width:50%;margin-left:auto;margin-right:auto;text-align:center;padding:5px;">
-  <a href="https://buymeacoffee.com/iamtank">Support me!</a>
-</div>
+<a href="https://buymeacoffee.com/iamtank">Support me!</a>
 
 ---
 
