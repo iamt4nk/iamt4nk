@@ -43,9 +43,7 @@ personal:
 - **[Athena](https://github.com/iamt4nk/athena)**  
 *A universal log parser to extract and summarize important information from large log files*
 
----
-
-<a href="https://buymeacoffee.com/iamtank">Support me!</a>
+<small><a href="https://buymeacoffee.com/iamtank">Support me!</a></small>
 
 ---
 
