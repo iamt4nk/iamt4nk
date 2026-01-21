@@ -45,9 +45,15 @@ personal:
 
 ---
 
+<div style="border:0px;border-radius:5px;box-shadow:3px 5px 5px darkgreen;width:50%;margin-left:auto;margin-right:auto;text-align:center;padding:5px;">
+  <a href="https://buymeacoffee.com/iamtank">Support me!</a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamt4nk&theme=shadow_green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamt4nk&layout=compact&langs_count=8&theme=shadow_green"/>
 </div>
